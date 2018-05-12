@@ -1,0 +1,27 @@
+_repo: Farmer-George-Volume-2_39981
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39981-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Melville, Lewis
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '3588'
+    url: http://www.gutenberg.org/2009/agents/3588
+description: ''
+gutenberg_issued: '2012-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'George III, King of Great Britain, 1738-1820'
+- !lcsh 'Great Britain -- History -- George III, 1760-1820'
+- !lcc 'DA'
+title: Farmer George, Volume 2
+url: http://www.gutenberg.org/ebooks/39981
